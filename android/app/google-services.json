@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "204572354221",
+    "firebase_url": "https://image-labeller-39b7a.firebaseio.com",
+    "project_id": "image-labeller-39b7a",
+    "storage_bucket": "image-labeller-39b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204572354221:android:7d4d154439af92a0470824",
+        "android_client_info": {
+          "package_name": "com.example.image_labeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204572354221-khgtfeb2mvub0lnk4915ihiv3g4d206s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN2NlmqVvfm-F7Y__5d8vb76HrTVGRL6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204572354221-khgtfeb2mvub0lnk4915ihiv3g4d206s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204572354221:android:264d00b55533ba15470824",
+        "android_client_info": {
+          "package_name": "com.example.image_labeller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204572354221-khgtfeb2mvub0lnk4915ihiv3g4d206s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN2NlmqVvfm-F7Y__5d8vb76HrTVGRL6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204572354221-khgtfeb2mvub0lnk4915ihiv3g4d206s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
